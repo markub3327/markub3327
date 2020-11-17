@@ -1,4 +1,9 @@
-### Hi there 👋
+# Martin Kubovčík 🇸🇰💻🤖
+
+👋🏼 Welcome to my personal profile. Here I post my projects about machine learning and robotics. I'm interested in developing agents that play games or I'd like making robots that perform any tasks. I'm using primary Python and C/C++ languages because I work with many performance required applications. I have experiences with Tensorflow 2 & Keras, OpenAI Gym, wanDB, Arduino IDE, Raspberry Pi and so on.
+ 
+* Instagram: [martin.kubovcik](https://www.instagram.com/martin.kubovcik/)
+* Email: [markub3327@gmail.com](mailto:markub3327@gmail.com)
 
 <!--
 **markub3327/markub3327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
