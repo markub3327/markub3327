@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on [RL-Toolkit](https://github.com/markub3327/rl-toolkit) and [AIGarden](https://github.com/markub3327/AIGarden).
 - 🌱 I’m currently learning Django, JavaScript, HTML, CSS.
-- 👯 I’m looking to collaborate on [LabelMe](https://github.com/wkentaro/labelme).
 - 💬 Ask me about anything you want of my projects.
 - 📫 How to reach me: markub3327@gmail.com
 - ⚡ Fun fact: I like gardening.
