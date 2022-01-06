@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Django, JavaScript, HTML, CSS.
 - 💬 Ask me about anything you want of my projects.
 - 📫 How to reach me: markub3327@gmail.com
-- ⚡ Fun fact: I like gardening.
+- ⚡ Fun fact: I like gardening 🌹 and astronomy 🔭.
 
 ![Martin's github stats](https://github-readme-stats.vercel.app/api?username=markub3327&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markub3327&layout=compact&theme=radical&langs_count=10)
