@@ -9,8 +9,14 @@
 - ⚡ Fun fact: I like gardening 🌹 and astronomy 🔭.
 
 ![Martin's github stats](https://github-profile-trophy.vercel.app/?username=markub3327&theme=dracula)
+
+---
+
 ![Martin's github stats](https://github-readme-stats.vercel.app/api?username=markub3327&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markub3327&layout=compact&theme=radical&langs_count=10)
+
+---
+
 ![Martin's github activity graph](https://activity-graph.herokuapp.com/graph?username=markub3327&theme=rogue)
 
 <!--
