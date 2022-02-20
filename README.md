@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [RL-Toolkit](https://github.com/markub3327/rl-toolkit) and [AIGarden](https://github.com/markub3327/AIGarden).
 - 🌱 I’m currently learning Django, JavaScript, HTML, CSS.
 - 💬 Ask me about anything you want of my projects.
-- 📫 How to reach me: markub3327@gmail.com
+- 📫 How to reach me: kubovcik1@ucm.sk
 - ⚡ Fun fact: I like gardening 🌹 and astronomy 🔭.
 
 ![Martin's github stats](https://github-profile-trophy.vercel.app/?username=markub3327&theme=dracula)
