@@ -10,7 +10,10 @@
 
 [![Years Badge](https://badges.pufler.dev/years/markub3327)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/markub3327)](https://badges.pufler.dev)
+[![Visits](https://badges.pufler.dev/visits/markub3327/markub3327)](https://badges.pufler.dev)
 [![Updated](https://badges.pufler.dev/updated/markub3327/markub3327)](https://badges.pufler.dev)
+
+---
 
 ![Martin's github stats](https://github-profile-trophy.vercel.app/?username=markub3327&theme=dracula)
 
