@@ -21,7 +21,7 @@
 
 ![Martin's github stats](https://github-readme-stats.vercel.app/api?username=markub3327&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markub3327&layout=compact&theme=radical&langs_count=10)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=markub3327&hide_title=false&theme=radical&hide_border=false)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=markub3327&hide_title=false&theme=radical&hide_border=false&v=2)
 
 ---
 
