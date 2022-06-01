@@ -1,8 +1,8 @@
 # Bc. Martin Kubovčík
 
-👋🏼 Welcome to my personal profile. Here I post my projects about machine learning and robotics. I'm interested in developing agents that play games or I'd like making robots that perform any tasks. I'm using primary Python and C/C++ languages because I work with many performance required applications. I have experiences with Tensorflow 2 & Keras, OpenAI Gym, wanDB, Arduino IDE, Raspberry Pi and so on.
+👋🏼 Welcome to my personal profile. Here I post my projects about machine learning and robotics. I'm interested in developing agents that play games or I'd like making robots that perform any tasks. I'm using primary Julia, Python and C/C++ languages. I have experiences with Tensorflow 2 & Keras, OpenAI Gym, wanDB, Arduino IDE, Raspberry Pi and so on.
 
-- 🔭 I’m currently working on [RL-Toolkit](https://github.com/markub3327/rl-toolkit) and [3Pi_Robot](https://github.com/markub3327/3Pi_Robot).
+- 🔭 I’m currently working on [RL-Toolkit](https://github.com/markub3327/rl-toolkit) and [NASA Power bot](https://github.com/markub3327/NASA-POWER-BOT).
 - 🌱 I’m currently learning [Julia](https://julialang.org).
 - 💬 Ask me about anything you want of my projects.
 - 📫 How to reach me: kubovcik1@ucm.sk
