@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on [RL-Toolkit](https://github.com/markub3327/rl-toolkit).
 - 🌱 I’m currently learning GAN models.
-- 💬 Ask me about anything you want of my projects.
 - 📫 How to reach me: kubovcik1@ucm.sk
 - ⚡ Fun fact: I like gardening 🌹 and astronomy 🔭.
 
