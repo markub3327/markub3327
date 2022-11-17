@@ -7,8 +7,6 @@
 - 📫 How to reach me: kubovcik1@ucm.sk
 - ⚡ Fun fact: I like gardening 🌹 and astronomy 🔭.
 
-[![Updated](https://badges.pufler.dev/updated/markub3327/markub3327)](https://badges.pufler.dev)
-
 ---
 
 ![Martin's github stats](https://github-profile-trophy.vercel.app/?username=markub3327&theme=dracula)
