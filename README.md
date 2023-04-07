@@ -17,10 +17,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markub3327&layout=compact&theme=radical&langs_count=10)
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=markub3327&hide_title=false&theme=radical&hide_border=false&v=2)
 
----
-
-![Martin's github activity graph](https://activity-graph.herokuapp.com/graph?username=markub3327&theme=rogue)
-
 <!--
 **markub3327/markub3327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
