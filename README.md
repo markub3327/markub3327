@@ -11,3 +11,4 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markub3327&layout=compact&theme=radical&langs_count=10)
+![Stats](https://github-readme-stats.vercel.app/api?username=markub3327&show_icons=true&theme=radical&locale=en)
