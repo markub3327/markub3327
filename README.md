@@ -17,3 +17,6 @@ Gymnasium environments, Transformers for Human Activity Recognition, Solar Irrad
 
 ⚡ **Fun fact**  
 I created one of the most popular open-source Flappy Bird Gymnasium environments — and yes, I’ve trained agents that are way better at it than I am! 🐦🎮
+
+
+![Preview](https://github.com/markub3327/SB3_Agents/blob/main/img/PPO_Agent.gif)
