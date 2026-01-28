@@ -1,5 +1,10 @@
 # Martin Kubovčík
 
+
+![Martin's github stats](https://github-readme-stats.vercel.app/api?username=markub3327&show_icons=true&theme=dracula&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markub3327&layout=donut-vertical&theme=dracula&langs_count=5)
+
 🔭 **I’m currently working on**  
 Reinforcement Learning frameworks for robotics, Transformer-based models for time-series forecasting, and fun game environments for RL experiments
 
